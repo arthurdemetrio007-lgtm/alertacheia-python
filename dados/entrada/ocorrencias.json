@@ -1,0 +1,74 @@
+[
+  {
+    "createdAt": "2026-11-11T23:15:22.680Z",
+    "bairro": "São João",
+    "endereco": "Av. Sertório, perto da praça",
+    "gravidade": "media",
+    "descricao": "Rua alagada por duas horas. A prefeitura limpou o bueiro entupido.",
+    "status": "resolvida",
+    "id": "1"
+  },
+  {
+    "createdAt": "2026-11-12T05:15:22.680Z",
+    "bairro": "Menino Deus",
+    "endereco": "Av. Praia de Belas, perto do shopping",
+    "gravidade": "baixa",
+    "descricao": "Água acumulada na esquina depois da chuva da madrugada. Já escoou.",
+    "status": "resolvida",
+    "id": "2"
+  },
+  {
+    "createdAt": "2026-11-12T17:15:22.680Z",
+    "bairro": "Farrapos",
+    "endereco": "Rua Dona Teodora, esquina com a Av. Sertório",
+    "gravidade": "baixa",
+    "descricao": "Poças grandes na calçada, dá para passar a pé com cuidado.",
+    "status": "aberta",
+    "id": "3"
+  },
+  {
+    "createdAt": "2026-11-12T20:15:22.680Z",
+    "bairro": "Centro Histórico",
+    "endereco": "Av. Mauá, em frente ao Cais",
+    "gravidade": "media",
+    "descricao": "Água passando por baixo do muro e acumulando na avenida.",
+    "status": "em_atendimento",
+    "id": "4"
+  },
+  {
+    "createdAt": "2026-11-12T21:45:22.680Z",
+    "bairro": "Navegantes",
+    "endereco": "Av. Brasil, perto da praça",
+    "gravidade": "media",
+    "descricao": "Bueiros transbordando. Carros passam devagar só pela faixa do meio.",
+    "status": "aberta",
+    "id": "5"
+  },
+  {
+    "createdAt": "2026-11-12T23:15:22.680Z",
+    "bairro": "Humaitá",
+    "endereco": "Rua Voluntários da Pátria, perto da Arena",
+    "gravidade": "alta",
+    "descricao": "Rua intransitável. Bombeiros retirando moradores de barco.",
+    "status": "em_atendimento",
+    "id": "6"
+  },
+  {
+    "createdAt": "2026-11-13T00:03:22.680Z",
+    "bairro": "Sarandi",
+    "endereco": "Av. Assis Brasil, perto do Arroio Sarandi",
+    "gravidade": "alta",
+    "descricao": "Água na altura do joelho e entrando nas casas térreas da quadra.",
+    "status": "aberta",
+    "id": "7"
+  },
+  {
+    "createdAt": "2026-11-13T00:45:22.680Z",
+    "bairro": "Arquipélago",
+    "endereco": "Ilha da Pintada, acesso da balsa",
+    "gravidade": "alta",
+    "descricao": "O rio subiu e cobriu o acesso à balsa. Famílias ilhadas pedindo resgate.",
+    "status": "aberta",
+    "id": "8"
+  }
+]

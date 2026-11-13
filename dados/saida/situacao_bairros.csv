@@ -1,0 +1,10 @@
+calculado_em,bairro,estado,cota_alagamento_cm,falta_cm,horas_ate_alagar,relatos_ativos,motivo,acao
+2026-11-12 23:03,Arquipélago,EVACUAR,140,0.0,0.0,1,nível medido,Água na rua. Saia agora para um lugar alto ou abrigo e desligue a energia.
+2026-11-12 23:03,Humaitá,ALERTA,280,125.1,,1,relatos dos moradores,A água deve chegar em poucas horas. Separe documentos e remédios e prepare a saída.
+2026-11-12 23:03,Sarandi,ALERTA,290,135.1,,1,relatos dos moradores,A água deve chegar em poucas horas. Separe documentos e remédios e prepare a saída.
+2026-11-12 23:03,Centro Histórico,ATENCAO,240,85.1,,1,relatos dos moradores,Nível subindo. Acompanhe os avisos e tire objetos do chão.
+2026-11-12 23:03,Navegantes,ATENCAO,260,105.1,,1,relatos dos moradores,Nível subindo. Acompanhe os avisos e tire objetos do chão.
+2026-11-12 23:03,Farrapos,NORMAL,270,115.1,,1,nível medido,Sem risco previsto agora.
+2026-11-12 23:03,São João,NORMAL,310,155.1,,0,nível medido,Sem risco previsto agora.
+2026-11-12 23:03,Menino Deus,NORMAL,370,215.1,,0,nível medido,Sem risco previsto agora.
+2026-11-12 23:03,Cidade Baixa,NORMAL,390,235.1,,0,nível medido,Sem risco previsto agora.
