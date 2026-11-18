@@ -19,7 +19,9 @@ Claude (Anthropic), usado por chat.
 
 ## Prompts
 
-1. "nenhum precisa, seguimos": pedido para começar a disciplina de Python depois de fechar o app web.
-2. [Prints do site Hidro-Telemetria da ANA, do menu "Visualizar Dados" e da série da estação 87450020]: pedido de ajuda para baixar a série do Guaíba de 2024.
-3. [Arquivo baixado `5-87450020-USINA_DO_GAS_METRO-2026-11-12.xls`]: envio da série para o programa usar.
-4. [Prints das opções 1, 2 e 3 do menu rodando no meu computador]: conferência dos resultados.
+Cada item resume o que foi pedido ao assistente e o que eu enviei junto. Prints e arquivos enviados aparecem entre colchetes.
+
+1. Pedi para começar a disciplina de Python depois de concluir o app web, com o programa ligado aos mesmos dados do sensor e do app.
+2. [Prints do site Hidro-Telemetria da ANA, do menu "Visualizar Dados" e da série da estação 87450020] Pedi orientação para baixar a série do Guaíba de 2024.
+3. [Arquivo `5-87450020-USINA_DO_GAS_METRO-2026-11-12.xls`, baixado por mim] Enviei a série para o programa usar na simulação da cheia.
+4. [Prints das opções 1, 2 e 3 do menu rodando no meu computador] Enviei os resultados para conferência e apontei a contradição na recomendação dos bairros que subiram de estado só pelos relatos.
